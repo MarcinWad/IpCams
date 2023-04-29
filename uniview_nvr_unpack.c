@@ -2,9 +2,6 @@
 #include <stdlib.h>
 #include <string.h>
 #include <time.h>
-#include <wolfssl/options.h> 
-#include <wolfssl/ssl.h>
-#include <wolfssl/openssl/rsa.h>
 
 int main(int argc, char* argv[]) {
 
